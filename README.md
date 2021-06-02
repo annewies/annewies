@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Annewies
-- 👀 I’m interested in sports & reading
+- 🏑 I like reading and playing several sports
 - 🏢 I currently work at YoungCapital as QA Lead
 
 <!---
